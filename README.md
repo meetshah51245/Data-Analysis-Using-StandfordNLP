@@ -20,5 +20,5 @@ Male chat participants use significantly more pronouns than do female chat parti
 # Proven: 
 There is no significant difference between number of pronouns spoken by male chat participants and female chat participants.
 
-Average number of pronouns used by males: 38.2
+Average number of pronouns used by males: 38.2 </br>
 Average number of pronouns used by females: 47.6
